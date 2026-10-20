@@ -1,0 +1,14 @@
+Z:\Warp\sciezka-w-informatyce\sciezka\bin\Debug\net10.0\sciezka.exe
+Z:\Warp\sciezka-w-informatyce\sciezka\bin\Debug\net10.0\sciezka.deps.json
+Z:\Warp\sciezka-w-informatyce\sciezka\bin\Debug\net10.0\sciezka.runtimeconfig.json
+Z:\Warp\sciezka-w-informatyce\sciezka\bin\Debug\net10.0\sciezka.dll
+Z:\Warp\sciezka-w-informatyce\sciezka\bin\Debug\net10.0\sciezka.pdb
+Z:\Warp\sciezka-w-informatyce\sciezka\obj\Debug\net10.0\sciezka.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Warp\sciezka-w-informatyce\sciezka\obj\Debug\net10.0\sciezka.AssemblyInfoInputs.cache
+Z:\Warp\sciezka-w-informatyce\sciezka\obj\Debug\net10.0\sciezka.AssemblyInfo.cs
+Z:\Warp\sciezka-w-informatyce\sciezka\obj\Debug\net10.0\sciezka.csproj.CoreCompileInputs.cache
+Z:\Warp\sciezka-w-informatyce\sciezka\obj\Debug\net10.0\sciezka.dll
+Z:\Warp\sciezka-w-informatyce\sciezka\obj\Debug\net10.0\refint\sciezka.dll
+Z:\Warp\sciezka-w-informatyce\sciezka\obj\Debug\net10.0\sciezka.pdb
+Z:\Warp\sciezka-w-informatyce\sciezka\obj\Debug\net10.0\sciezka.genruntimeconfig.cache
+Z:\Warp\sciezka-w-informatyce\sciezka\obj\Debug\net10.0\ref\sciezka.dll
